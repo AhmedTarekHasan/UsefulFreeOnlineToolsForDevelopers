@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/useful-free-online-tools-for-developers-ed882d4761c1?sk=836e147b6077a04d65693e3728f47cf6" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/useful-free-online-tools-for-developers" />
 
 # Useful Free Online Tools For Developers
 ### This is a list of useful free online tools for developers to help them on their daily tasks.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*5XeQ7DcUFT4NngB5J9in_Q.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_97ad0b5df506426aa5b320cd73fa962d~mv2.png">
 </p>
 
 <br/>
@@ -47,4 +47,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/useful-free-online-tools-for-developers-ed882d4761c1?sk=836e147b6077a04d65693e3728f47cf6
+[Article]: https://www.developmentsimplyput.com/post/useful-free-online-tools-for-developers
